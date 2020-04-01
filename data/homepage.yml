@@ -1,0 +1,36 @@
+# banner
+banner:
+  title : "<center><br> </center>"
+
+# about
+about:
+  enable : true
+  content : "Yoga Garden provides classes that include traditional yoga and simple breathwork, often with stories or music. Activities incorporate mindfulness exercises and games to promote self-regulation, self-awareness, and conscious connection.<br><br>"
+  button:
+    enable : true
+    label : "Learn more"
+    URL : "about"
+
+
+
+# classes
+classes:
+  enable : true
+  title : "Classes"
+  button:
+    enable : true
+    label : "See all classes"
+    URL : "classes"
+  # post comes from "content/classes" folder
+
+
+
+# videos
+blog:
+  enable : true
+  title : "Featured Videos"
+  button:
+    enable : true
+    label : "See all videos"
+    URL : "videos"
+  # post comes from "content/blog" folder

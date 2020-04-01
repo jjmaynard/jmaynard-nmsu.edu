@@ -1,0 +1,24 @@
+
+# team
+team:
+  enable: true
+  title : "Activities"
+  team_member:
+    - title : "Yoga Flows"
+      image : "images/team/act1.png"
+      designation : "Activities incorporate mindfulness exercises and games to promote self-regulation, self-awareness, and conscious connection."
+      
+    - title : "Mindfullness Games"
+      image : "images/team/act2.png"
+      designation : "Activities incorporate mindfulness exercises and games to promote self-regulation, self-awareness, and conscious connection."
+      
+    - title : "Guided Visualization"
+      image : "images/team/act3.png"
+      designation : "Activities incorporate mindfulness exercises and games to promote self-regulation, self-awareness, and conscious connection."
+
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  title : ""
+  # clients logo comes from 'data/homepage.yml' file

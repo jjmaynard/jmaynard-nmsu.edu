@@ -1,0 +1,92 @@
+# default configuration
+baseURL = "http://examplesite.com"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "Yoga Garden"
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+# menu
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+
+[[menu.main]]
+URL = "classes"
+name = "Classes"
+weight = 3
+
+[[menu.main]]
+URL = "videos"
+name = "Videos"
+weight = 4
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+
+
+# default parameters
+[params]
+home = "Yoga Garden"
+logo = "images/yg_logo_name.png"
+# theme color
+theme_color = "#41228e"
+email = "yogagardenoregon@gmail.com"
+address = "Corvallis, Oregon, USA"
+# meta description
+author = "Tracy Erwin"
+description = "This is meta description"
+# google analitycs
+google_analitycs_id = "" # Your ID
+# copyright
+copyright = "Yoga Garden &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+
+
+# contact
+[params.contact]
+enable = true
+form_action = "#" # contact form works with : https://formspree.io
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# social site
+[[params.social]]
+URL = "https://www.facebook.com/Yogagardenoregon/"
+icon = "ti-facebook"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-instagram"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-dribbble"
+
+#[[params.social]]
+#URL = "#"
+#icon = "ti-twitter-alt"
