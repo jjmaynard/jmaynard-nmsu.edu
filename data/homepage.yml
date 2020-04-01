@@ -19,7 +19,7 @@ classes:
   title : "Classes"
   button:
     enable : true
-    label : "See all classes"
+    label : "Learn more about classes"
     URL : "classes"
   # post comes from "content/classes" folder
 
