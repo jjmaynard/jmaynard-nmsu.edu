@@ -1,7 +1,22 @@
 
+# about
+about:
+  enable : true
+  content : "Yoga Garden provides classes that include traditional yoga and simple breathwork, often with stories or music. Activities incorporate mindfulness exercises and games to promote self-regulation, self-awareness, and conscious connection.<br><br>"
+  button:
+    enable : true
+
+
+# classes
+classes:
+  enable : true
+  title : "Current Classes"
+
+  # post comes from "content/classes" folder
+    
 # team
 team:
-  enable: false
+  enable: true
   title : "Class Activities"
   team_member:
     - title : "Yoga Flows"
@@ -16,10 +31,7 @@ team:
       image : "images/team/act3.png"
       designation : "Activities incorporate mindfulness exercises and games to promote self-regulation, self-awareness, and conscious connection."
 
-#image_row
-image_row:
-  enable: true
-  
+
 # client logo slider
 clients_logo_slider:
   enable : true

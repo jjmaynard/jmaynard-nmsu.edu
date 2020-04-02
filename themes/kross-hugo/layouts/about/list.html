@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1 class="text-white font-tertiary">{{ .Title }}</h1>
+        <h2 class="text-white font-tertiary">{{ .Title }}</h2>
       </div>
     </div>
   </div>
@@ -38,6 +38,28 @@
   </div>
 </section>
 <!-- /about -->
+
+<!-- image_row -->
+{{ if .Site.Data.about.image_row.enable }}
+{{ with .Site.Data.about.image_row }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="column">
+        <img src="/images/team/act1.png" alt="Snow" style="width:95%">
+      </div>
+      <div class="column">
+        <img src="/images/team/act2.png" alt="Forest" style="width:95%">
+      </div>
+      <div class="column">
+        <img src="/images/team/act3.png" alt="Mountains" style="width:95%">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /image_row_ -->
 
 <!-- Work Process -->
 {{ if .Site.Data.about.work_process.enable }}
