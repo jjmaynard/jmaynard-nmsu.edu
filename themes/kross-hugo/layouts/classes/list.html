@@ -72,9 +72,9 @@
 <!-- ./Work Process -->
 
 <!-- team -->
-{{ if .Site.Data.classes.team.enable }}
-{{ with .Site.Data.classes.team }}
-<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+{{ if .Site.Data.homepage.team.enable }}
+{{ with .Site.Data.homepage.team }}
+<section class="section">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
@@ -87,6 +87,7 @@
           <div class="card-body">
             <h4 class="card-title">{{.title }}</h4>
             <p class="text-light font-secondary">{{.designation }}</p>
+            <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
           </div>
         </div>
       </div>
@@ -97,5 +98,5 @@
 {{ end }}
 {{ end }}
 <!-- /team -->
-
+  
 {{ end }}

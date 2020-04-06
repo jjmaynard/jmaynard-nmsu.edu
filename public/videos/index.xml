@@ -12,22 +12,42 @@
     
     
     <item>
-      <title>Being Joyful Yoga Flow</title>
-      <link>/videos/being_joyful/</link>
-      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      <title>Welcome to Yoga Garden</title>
+      <link>/videos/intro/</link>
+      <pubDate>Mon, 06 Apr 2020 12:14:34 +0600</pubDate>
       
-      <guid>/videos/being_joyful/</guid>
-      <description>A 19-minute yoga flow class with a garden theme.
+      <guid>/videos/intro/</guid>
+      <description>An introduction to Yoga Garden
+       </description>
+    </item>
+    
+    <item>
+      <title>Grounding Yoga Poses</title>
+      <link>/videos/grounding_yoga/</link>
+      <pubDate>Sat, 04 Apr 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/videos/grounding_yoga/</guid>
+      <description>A 26-minute yoga class focusing on grounding yoga poses
        </description>
     </item>
     
     <item>
       <title>Feel Good Yoga Flow</title>
       <link>/videos/feel_good/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <pubDate>Fri, 03 Apr 2020 12:14:34 +0600</pubDate>
       
       <guid>/videos/feel_good/</guid>
       <description>A 16-minute yoga flow class led by Molly.
+       </description>
+    </item>
+    
+    <item>
+      <title>Being Joyful Yoga Flow</title>
+      <link>/videos/being_joyful/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/videos/being_joyful/</guid>
+      <description>A 19-minute yoga flow class with a garden theme.
        </description>
     </item>
     

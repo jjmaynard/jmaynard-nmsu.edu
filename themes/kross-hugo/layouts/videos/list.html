@@ -1,0 +1,52 @@
+{{ define "main" }}
+  {{ partial "page-title.html" . }}
+
+{{ if .Site.Data.videos.about.enable }}
+<!-- about -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        {{ with .Site.Data.classes.about }}
+        <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /about -->
+{{ end }}
+
+  
+{{ if .Site.Data.videos.blog.enable }}
+<!-- blog -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{.Site.Data.videos.blog.title | markdownify }}</h2>
+      </div>
+      {{ range $i, $e :=  (where .Site.RegularPages "Section" "videos")  }}
+      {{ .Render "post" }}
+      {{ end }}
+    </div>
+      <div class="col-lg-10 mx-auto text-center">
+        {{ with .Site.Data.videos.blog }}
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+      </div>
+  </div>
+</section>
+<!-- /blog -->
+{{ end }}
+  
+{{ end }}

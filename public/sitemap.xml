@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/videos/intro/</loc>
+    <lastmod>2020-04-06T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-04-06T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/grounding_yoga/</loc>
+    <lastmod>2020-04-04T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/videos/feel_good/</loc>
+    <lastmod>2020-04-03T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/videos/being_joyful/</loc>
     <lastmod>2020-01-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
     <loc>/classes/kids/</loc>
-    <lastmod>2020-01-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-01-12T12:14:34+06:00</lastmod>
   </url>
   
@@ -34,11 +49,6 @@
   
   <url>
     <loc>/classes/family/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/videos/feel_good/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
