@@ -9,6 +9,11 @@ title: Being Joyful Yoga Flow
 
 A 19-minute yoga flow class with a garden theme. 
 
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
