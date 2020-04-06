@@ -5,7 +5,11 @@ image: images/blog/sun.jpg
 title: Grounding Yoga Poses
 ---
 
-A 26-minute yoga class focusing on grounding yoga poses 
+A 26-minute yoga class focusing on challenging yoga poses that help us to be more grounded.
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
