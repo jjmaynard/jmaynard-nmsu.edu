@@ -1,7 +1,7 @@
 ---
 date: "2020-01-12T12:14:34+06:00"
 description: This is meta description.
-image: images/blog/joyful.jpg
+image: images/blog/lotus.jpg
 title: Finding Your Center
 ---
   
