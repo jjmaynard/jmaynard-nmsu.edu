@@ -41,10 +41,10 @@ URL = "videos"
 name = "Videos"
 weight = 4
 
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+#[[menu.main]]
+#URL = "contact"
+#name = "Contact"
+#weight = 5
 
 
 # default parameters
@@ -65,9 +65,9 @@ copyright = "Yoga Garden &copy; 2020 a theme by [gethugothemes](https://gethugot
 
 
 # contact
-[params.contact]
-enable = true
-form_action = "https://formspree.io/mnqbpeoq" # contact form works with : https://formspree.io
+#[params.contact]
+#enable = true
+#form_action = "https://formspree.io/mnqbpeoq" # contact form works with : https://formspree.io
 
 # preloader
 [params.preloader]
