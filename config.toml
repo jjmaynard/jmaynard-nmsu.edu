@@ -37,9 +37,14 @@ name = "Classes"
 weight = 3
 
 [[menu.main]]
+URL = "workshops"
+name = "Workshops"
+weight = 4
+
+[[menu.main]]
 URL = "videos"
 name = "Videos"
-weight = 4
+weight = 5
 
 #[[menu.main]]
 #URL = "contact"
@@ -61,7 +66,7 @@ description = "This is meta description"
 # google analitycs
 google_analitycs_id = "" # Your ID
 # copyright
-copyright = "Yoga Garden &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Yoga Garden &copy; 2023 a theme by [gethugothemes](https://gethugothemes.com)"
 
 
 # contact
