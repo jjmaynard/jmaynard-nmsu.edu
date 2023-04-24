@@ -1,0 +1,31 @@
+
+# about
+about:
+  enable : true
+  content : "Yoga Garden workshops are in-person workshops held in a beautiful room in a church in NW Corvallis."
+  button:
+    enable : true
+
+    
+# team
+team:
+  enable: true
+  title : "Workshops"
+  team_member:
+    - title : "Teen Workshops"
+      image : "images/team/workshop_pic.png"
+      designation : "Yoga Garden offers teen yoga and mindfulness workshops."
+      label : "Teen Workshops"
+      URL : "docs/YG_Teen_Spring2023.pdf" 
+
+    - title : "Family Yoga Workshops"
+      image : "images/team/family_workshop.png"
+      designation : "Yoga Garden offers quarterly hour-long family yoga classes. These classes are designed for two people and include many partner yoga poses and games."
+      label : "Family Yoga Workshops"
+      URL : "docs/YG_Family_Flier.pdf"
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  title : ""
+  # clients logo comes from 'data/homepage.yml' file

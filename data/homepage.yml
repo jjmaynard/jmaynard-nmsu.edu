@@ -23,13 +23,13 @@ team:
       image : "images/team/act3.png"
       designation : "Yoga Garden offers weekly 45-minute yoga and mindfulness classes to kids 6-8 years old."
       label : "Kids Yoga Class"
-      URL : "docs/YG_Kids_Flier.pdf" 
+      URL : "docs/YogaGarden_Spring2023.pdf" 
 
     - title : "Tween Yoga"
       image : "images/team/act1.png"
       designation : "Yoga Garden offers weekly hour-long yoga and mindfulness classes to kids 9-12 yrs old."
       label : "Tween Yoga Class"
-      URL : "docs/YG_Kids_Flier.pdf"      
+      URL : "docs/YogaGarden_Spring2023.pdf"      
 
     - title : "Family Yoga"
       image : "images/team/family.png"
