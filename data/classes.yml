@@ -2,27 +2,27 @@
 # about
 about:
   enable : true
-  content : "Yoga Garden classes are in-person classes held in a beautiful room in a church in NW Corvallis. Children's classes are held weekly in 7-8 week sessions each quarter. During this  unusual time, Yoga Garden will be working to provide various types of yoga or mindfulness classes in video format. These video classes are very different from the format of a regular Yoga Garden class. Our in-person classes are very interactive, with group games, stories, and sharing as well as yoga poses and meditations. The videos are my best current effort to help my students keep up a practice and explore yoga in a different setting. My great hope is that we can all be together again and practicing yoga with joy, security, and celebration!"
+  content : "Yoga Garden!! classes are in-person classes held in a beautiful room in a church in NW Corvallis. Children's classes are held weekly in 7-8 week sessions each quarter. During this  unusual time, Yoga Garden will be working to provide various types of yoga or mindfulness classes in video format. These video classes are very different from the format of a regular Yoga Garden class. Our in-person classes are very interactive, with group games, stories, and sharing as well as yoga poses and meditations. The videos are my best current effort to help my students keep up a practice and explore yoga in a different setting. My great hope is that we can all be together again and practicing yoga with joy, security, and celebration!"
   button:
     enable : true
 
     
-# team
+# classes
 team:
   enable: true
   title : "Classes"
   team_member:
-    - title : "Kids Yoga"
+    - title : "Elementary School Age Yoga"
       image : "images/team/act3.png"
-      designation : "Yoga Garden offers weekly 45-minute yoga and mindfulness classes to kids 6-8 years old."
-      label : "Kids Yoga Class"
-      URL : "docs/YogaGarden_Spring2023.pdf" 
+      designation : "Yoga Garden!! offers weekly 45-minute yoga and mindfulness classes to kids 6-8 years old."
+      label : "Elementary School Yoga Class"
+      URL : "docs/Yoga and mindfulness for girls NEWEST Flyer 2024.pdf" 
 
-    - title : "Tween Yoga"
+    - title : "Middle School Age Yoga"
       image : "images/team/act1.png"
       designation : "Yoga Garden offers weekly hour-long yoga and mindfulness classes to kids 9-12 yrs old."
-      label : "Tween Yoga Class"
-      URL : "docs/YogaGarden_Spring2023.pdf"      
+      label : "Middle School Yoga Class"
+      URL : "docs/Yoga and mindfulness for girls NEWEST Flyer 2024.pdf"      
 
     - title : "Family Yoga"
       image : "images/team/family.png"
